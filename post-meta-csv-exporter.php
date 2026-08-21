@@ -7,7 +7,9 @@
  * Author:      Harvey Plum
  * Author URI:  https://harveyplum.com
  * GitHub Plugin URI: https://github.com/HarveyPlum/post-meta-csv-exporter
+ * Update URI: https://github.com/HarveyPlum/post-meta-csv-exporter
  * Primary Branch: main
+ * Release Asset: true
  * License:     GPL-2.0-or-later
  * Text Domain: post-meta-csv-exporter
  * Requires at least: 6.0
